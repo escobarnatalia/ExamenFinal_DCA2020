@@ -1,0 +1,6 @@
+cuadrado:100
+circulo:50
+cuadrado:80
+circulo:30
+cuadrado:40
+circulo:60
